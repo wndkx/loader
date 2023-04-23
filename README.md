@@ -1,2 +1,2 @@
 # loader
-A basic Lydia installer. It can restore root fs too.
+A basic Cydia installer. It can restore root fs too.
